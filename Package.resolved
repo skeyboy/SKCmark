@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "cmark",
+        "repositoryURL": "https://github.com/brokenhandsio/cmark-gfm.git",
+        "state": {
+          "branch": null,
+          "revision": "351e5cb1bc6a43567b8ff9b9b3f7357c58bdda83",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
